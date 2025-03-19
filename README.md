@@ -60,15 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
 </div>
 ###
-
-###
-
-<img src="https://raw.githubusercontent.com/RajveersinhS/RajveersinhS/output/snake.svg" alt="Snake animation" />
-
-###
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/RajveersinhS/RajveersinhS/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 <div align="center">
