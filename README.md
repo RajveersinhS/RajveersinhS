@@ -1,8 +1,14 @@
 <h1 align="left">Hi, Rajveer Here ! 👋</h1>
 
-###
 
-<h6 align="left">Hello, I am Rajveersinh Suratiya, passionate Embedded Engineer pursing master in Electrical Eng & Embedded Sys. <br>Eger to collaborate with exciting new Projects.</h6>
+# 💥 About Me  
+- **Embedded Software Engineer** ❤️  
+- Pursuing **MS in Electrical Eng & Embedded Sys** at RWU - Germany 🎓  
+- Passionate about **Embedded Programming, Computer Vision, IOT, and Robotics projects** 🔭  
+- Enjoy engaging in **thoughtful discussions** 💯  
+- Love **Reading**, **Cycling**, and **Cooking** 🏏🚴‍🍳   
+
+
 
 ###
 
@@ -17,12 +23,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-# 💥 About Me  
-- **Embedded Software Engineer** ❤️  
-- Pursuing **MS in Electrical Eng & Embedded Sys** at RWU - Germany 🎓  
-- Passionate about **Embedded Programming, Computer Vision, IOT, and Robotics projects** 🔭  
-- Enjoy engaging in **thoughtful discussions** 💯  
-- Love **Reading**, **Cycling**, and **Cooking** 🏏🚴‍🍳   
 
 ---
 
@@ -59,11 +59,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
 </div>
-###
 
-<img src="https://raw.githubusercontent.com/RajveersinhS/RajveersinhS/output/snake.svg" alt="Snake animation" />
 
-###
 
 ###
 <div align="center">
