@@ -17,21 +17,24 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
+# 💥 About Me  
+- **Embedded Software Engineer** ❤️  
+- Pursuing **MS in Electrical Eng & Embedded Sys** at RWU - Germany 🎓  
+- Passionate about **Embedded Programming, Computer Vision, IOT, and Robotics projects** 🔭  
+- Enjoy engaging in **thoughtful discussions** 💯  
+- Love **Reading**, **Cycling**, and **Cooking** 🏏🚴‍🍳   
 
-<div align="left">
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">I code with</h2>
+---
 
 ###
 
 <div align="left">
 </div>
+
+
+## 📈 My GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Vardhan1303&show_icons=true&theme=gotham" alt="GitHub Stats" />  
+</p>  
 
 ###
