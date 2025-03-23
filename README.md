@@ -1,12 +1,19 @@
-<h1 align="left">Hi, Rajveer Here ! 👋</h1>
+<h1 align="center">Hi 👋, I'm Rajveersinh Suratiya</h1>
+<h3 align="center">Embedded Software Eng And Tech Enthusiast </h3>
+
+<p align="center">
+  🚀 Embedded system Development/ Programming, IOT, AI/ML and ensuring application reliability.
+</p>
+
+---
 
 
-# 💥 About Me  
+### 🌟 About Me 
 - **Embedded Software Engineer** ❤️  
 - Pursuing **MS in Electrical Eng & Embedded Sys** at RWU - Germany 🎓  
 - Passionate about **Embedded Programming, Computer Vision, IOT, and Robotics projects** 🔭  
 - Enjoy engaging in **thoughtful discussions** 💯  
-- Love **Reading**, **Cycling**, and **Cooking** 🏏🚴‍🍳   
+  
 
 
 
