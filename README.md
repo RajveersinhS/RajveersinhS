@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajveersinh Suratiya</h1>
-<h3 align="center">Embedded Software Eng And Tech Enthusiast </h3>
+<h3 align="center">Passionate Embedded Software Eng And Tech Enthusiast </h3>
 
 <p align="center">
   🚀 Embedded system Development/ Programming, IOT, AI/ML and ensuring application reliability.
