@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm Rajveersinh Suratiya</h1>
+<h1 align="center">Hi 👋 I'm Rajveersinh Suratiya</h1>
+
+<h3 align="center">
+Embedded Software Engineer | Robotics & IoT Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Software+Engineer;Robotics+%7C+IoT+Developer;Computer+Vision+Enthusiast;Firmware+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Embedded+Systems+Engineer;Firmware+Developer;Robotics+%7C+IoT+Enthusiast;Computer+Vision+Explorer;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="center">Embedded Systems | Robotics | IoT | Computer Vision</h3>
-
 <p align="center">
-Passionate about building intelligent embedded systems and transforming ideas into real-world engineering solutions.
+Engineering intelligent systems through embedded software, robotics, and sensor integration.
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🔹 Embedded Software Engineer passionate about firmware development and hardware-software integration  
-🔹 Currently pursuing **M.Sc. in Electrical Engineering & Embedded Systems** at **RWU – Germany**  
-🔹 Strong interest in **Embedded Programming, Robotics, IoT Systems and Computer Vision**  
-🔹 Experienced in working with **Microcontrollers, Sensors, and Real-Time Systems**  
-🔹 Enjoy building **practical engineering projects and learning emerging technologies**
+🎓 **M.Sc. Electrical Engineering & Embedded Systems**  
+Ravensburg-Weingarten University (RWU), Germany  
+
+⚙ Passionate about
+
+• Embedded Systems  
+• Robotics  
+• IoT Development  
+• Computer Vision  
+• Firmware Engineering  
+
+💡 I enjoy building **real engineering projects combining hardware and software**
 
 ---
 
@@ -26,19 +35,19 @@ Passionate about building intelligent embedded systems and transforming ideas in
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rajveersinh1411/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
 <a href="mailto:rajveersinhs1411@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajveersinh1411">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Languages & Tools
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -48,19 +57,31 @@ Passionate about building intelligent embedded systems and transforming ideas in
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Engineering Areas
+
+🔹 Embedded Software Development  
+🔹 Firmware Programming  
+🔹 Robotics Systems  
+🔹 IoT Development  
+🔹 Sensor Integration  
+🔹 Hardware–Software Co-Design  
+🔹 Computer Vision Applications  
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajveersinhS&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RajveersinhS&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajveersinhS&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajveersinhS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -70,28 +91,28 @@ Passionate about building intelligent embedded systems and transforming ideas in
 
 ---
 
-# 👀 Profile Views
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RajveersinhS&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RajveersinhS&theme=onedark&row=1&column=6"/>
 
 </p>
 
 ---
 
-# ⭐ Engineering Interests
+# 👀 Profile Visitors
 
-✔ Embedded Systems Development  
-✔ Firmware Engineering  
-✔ Robotics & Automation  
-✔ IoT Systems  
-✔ Computer Vision  
-✔ Sensor Integration  
-✔ Hardware–Software Co-Design  
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RajveersinhS&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ---
 
 <p align="center">
-💡 *"Engineering is turning ideas into reality through innovation and persistence."*
+
+⭐ *“Turning ideas into real-world embedded systems through engineering and innovation.”*
+
 </p>
